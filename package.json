@@ -1,0 +1,12 @@
+{
+  "name": "dsa-mastery",
+  "version": "1.0.0",
+  "description": "Concept-first DSA practice in JavaScript",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
